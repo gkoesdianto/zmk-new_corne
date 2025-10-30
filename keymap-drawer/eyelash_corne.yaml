@@ -43,7 +43,7 @@ layers:
   - {t: ., s: '>'}
   - {t: /, s: '?'}
   - {t: '$$mdi:keyboard-return$$', type: enter}
-  - LGUI
+  - {t: '$$mdi:backspace$$', h: LGUI}
   - {t: '$$mdi:keyboard-return$$', h: GLOBE}
   - {t: '$$mdi:backspace-reverse-outline$$', h: NUMBER}
   - {t: '$$mdi:backspace$$', h: SYMBOL}
